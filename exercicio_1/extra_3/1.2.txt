@@ -1,0 +1,9 @@
+40 * 10 < 3 / 40 or 40 / 10 < 3 * 40 and 3 * 10 < 40
+
+400 < 0.075 or 4 < 120 and 30 < 40
+
+False or True and True
+
+False or True
+
+True
