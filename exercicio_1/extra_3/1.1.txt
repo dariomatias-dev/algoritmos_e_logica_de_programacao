@@ -1,9 +1,9 @@
-w = 5 * 10 < 15 / 3 or 5 / 10 < 15 * 5 and 15 * 10< 5 
+5 * 10 < 15 / 5 or 5 / 10 < 15 * 5 and 15 * 10 < 5 
 
-50 < 5 or 0.5 < 75 and 150 < 5 
+50 < 3 or 0.5 < 75 and 150 < 5 
 
 False or True and False 
 
-False or false 
+False or False 
 
 False
